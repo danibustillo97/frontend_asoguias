@@ -9,7 +9,7 @@ import { GuideDirectoryComponent } from './pages/guide-directory/guide-directory
 import { LoginComponent } from './pages/login/login/login.component';
 
 const routes: Routes = [
-  { path: 'home', component: HomeComponent },
+  { path: '', component: HomeComponent },
   { path: 'associations', component: AssociationsComponent },
   { path: 'institutional', component: InstitutionalComponent },
   { path: 'regulations', component: RegulationsComponent },
