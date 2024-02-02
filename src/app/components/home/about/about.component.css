@@ -1,0 +1,11 @@
+
+.bg-blue-1 {
+    background-color: #0069BC;
+}
+.section-3 {
+    justify-content: space-around;
+}
+
+.section-3 button {
+    font-size: 1.2rem;
+}
